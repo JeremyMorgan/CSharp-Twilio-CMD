@@ -1,0 +1,11 @@
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\bin\Debug\Twiliotest.exe.config
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\bin\Debug\Twiliotest.exe
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\bin\Debug\Twiliotest.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\bin\Debug\RestSharp.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\bin\Debug\Twilio.Api.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\bin\Debug\RestSharp.xml
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\bin\Debug\Twilio.Api.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\bin\Debug\Twilio.Api.xml
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\obj\Debug\Twiliotest.csprojResolveAssemblyReference.cache
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\obj\Debug\Twiliotest.exe
+c:\users\jeremy\documents\visual studio 2013\Projects\Twiliotest\Twiliotest\obj\Debug\Twiliotest.pdb
